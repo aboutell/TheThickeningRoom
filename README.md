@@ -13,4 +13,5 @@ New Version of TheThickeningRoom Minecraft Server is set to be released the week
 8) MrCrayFish Furniture Mod
 
 # Open Issues on the issues tab
-# Join the conversation on Slack: TheThickeningRoom Channel
+# Join the conversation on Slack:
+#TheThickeningRoom

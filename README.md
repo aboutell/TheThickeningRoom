@@ -1,5 +1,4 @@
 # TheThickeningRoomMCServer
-
 The Thickening Room Minecraft Server is currently running version 1.15.2 with some additional mods to the game for more enhanced gameplay.
 
 # Social Undistancing Modpack
@@ -13,5 +12,3 @@ The Thickening Room Minecraft Server is currently running version 1.15.2 with so
 8) MrCrayFish Furniture Mod
 
 # Open Issues on the issues tab
-# Join the conversation on Slack:
-#TheThickeningRoom

@@ -1,6 +1,6 @@
 # TheThickeningRoomMCServer
 
-New Version of TheThickeningRoom Minecraft Server is set to be released the week of 4/13.  This release will update the server from version 1.14.4 to version 1.15.2 and will add some additional mods to the game for more enhanced gameplay.
+The Thickening Room Minecraft Server is currently running version 1.15.2 with some additional mods to the game for more enhanced gameplay.
 
 # Social Undistancing Modpack
 1) Forge

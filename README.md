@@ -15,7 +15,7 @@ The Thickening Room Minecraft Server is currently running version 1.15.2 with so
 This modpack (Installation) is currently configured for Windows Only.  A Linux version will be released soon!
 1) Download TTRUpdate.zip
 2) Extract Zip File
-3) Open the file titled READMEFIRST.txt
+3) Open the file titled README FIRST.txt
 4) Follow the instructions in the document.
 
 # Open Issues on the issues tab

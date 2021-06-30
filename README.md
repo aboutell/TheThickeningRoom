@@ -7,9 +7,9 @@ Kids Server - Minecraft Version 1.17 :: Targetted server for Liz and Johnathan (
 TheThickeningRoom - Minecraft Version 1.15.2 :: Creative Minecraft Server.
 
 # Server Status
-Can You Survive It - #ONLINE - Server restarts nightly at 3am
-Kids Server - #OFFLINE
-TheThickeningRoom - #ONLINE
+1) Can You Survive It - # ONLINE - Server restarts nightly at 3am
+2) Kids Server - # OFFLINE
+3) TheThickeningRoom - # ONLINE
 
 # COMMANDS FOR CAN YOU SURVIVE IT SERVER.
 The Can You Survive It surver has some server side mods installed to enhance the normal gameplay of Minecraft.  These mods don't have to be downloaded on the client side to work, they just work.  Mods include:

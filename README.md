@@ -14,20 +14,14 @@ TheThickeningRoom - #ONLINE
 # COMMANDS FOR CAN YOU SURVIVE IT SERVER.
 The Can You Survive It surver has some server side mods installed to enhance the normal gameplay of Minecraft.  These mods don't have to be downloaded on the client side to work, they just work.  Mods include:
 
-:GOTO MOD:
-Teleportation Mod
-https://dev.bukkit.org/projects/go-to
+:GOTO MOD - Teleportation Mod - https://dev.bukkit.org/projects/go-to
 
-:Enhanced Crafting:
-https://dev.bukkit.org/projects/enhanced-crafting
+:Enhanced Crafting - https://dev.bukkit.org/projects/enhanced-crafting
 
-:Portable Chests:
-Place anything in chests, break them and items stay in them!!
+:Portable Chests - Place anything in chests, break them and items stay in them!!
 
-:NoEndermanGrief:
-When Endermen spawn they will no longer pickup blocks.
+:NoEndermanGrief - When Endermen spawn they will no longer pickup blocks.
 
-:Dropped Heads:
-When any animal/person/npc/mob die there is a chance a head will be dropped...this is more of a funny mod than anything!
+:Dropped Heads - When any animal/person/npc/mob die there is a chance a head will be dropped...this is more of a funny mod than anything!
 
 # Open Issues on the issues tab

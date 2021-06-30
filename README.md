@@ -1,5 +1,5 @@
 # Welcome to The Thickening Room
-The Thickening Room Minecraft Server is currently running version 1.15.2 with some additional mods to the game for more enhanced gameplay.
+The Thickening Room is a collection of Minecraft Servers hosted by Andrew for Friends and Family to play on.  No IP Address will be given out on this site.
 
 # Current Servers
 1) Can You Survive It - Minecraft Version 1.17 :: Survival Server with no mods and normal difficulty.

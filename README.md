@@ -22,18 +22,8 @@ The Can You Survive It surver has some server side mods installed to enhance the
 
 :GOTO MOD:
 Teleportation Mod
-Commands:
-Command 				                  Description
-/goto <point> 				            Go to a point
-/point new <point> <point name> 	Create a new point
-/point set <point> 			          Edit the coordinates of a point
-/point name <point> <point name> 	Give a name to a point
-/point rename <point> <new point> Rename a point
-/point delete <point> 			      Delete a point
-/point view <point> 			        View details of a point
-/point list 			              	List of your points
-/back 					                  Turn back
-  
+https://dev.bukkit.org/projects/go-to
+
 :Enhanced Crafting:
 https://dev.bukkit.org/projects/enhanced-crafting
 

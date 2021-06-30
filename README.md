@@ -1,21 +1,51 @@
-# TheThickeningRoomMCServer
+# Welcome to The Thickening Room
 The Thickening Room Minecraft Server is currently running version 1.15.2 with some additional mods to the game for more enhanced gameplay.
 
-# Social Undistancing Modpack
-1) Forge
-2) Mekanism
-3) VoxelMap
-4) StorageDrawers
-5) JustEnoughItems
-6) MrCrayFish GlassCutter
-7) MrCrayFish Vehicle Mod
-8) MrCrayFish Furniture Mod
+---
 
-# Installing the Modpack
-This modpack (Installation) is currently configured for Windows Only.  A Linux version will be released soon!
-1) Download TTRUpdate.zip
-2) Extract Zip File
-3) Open the file titled README FIRST.txt
-4) Follow the instructions in the document.
+#Current Servers
+Can You Survive It - Minecraft Version 1.17 :: Survival Server with no mods and normal difficulty.
+Kids Server - Minecraft Version 1.17 :: Targetted server for Liz and Johnathan (Andrew's Nephew) to play on.
+TheThickeningRoom - Minecraft Version 1.15.2 :: Creative Minecraft Server.
+
+---
+
+#Server Status
+Can You Survive It - #ONLINE - Server restarts nightly at 3am
+Kids Server - #OFFLINE
+TheThickeningRoom - #ONLINE
+
+---
+
+#COMMANDS FOR CAN YOU SURVIVE IT SERVER.
+The Can You Survive It surver has some server side mods installed to enhance the normal gameplay of Minecraft.  These mods don't have to be downloaded on the client side to work, they just work.  Mods include:
+
+:GOTO MOD:
+Teleportation Mod
+Commands:
+Command 				                  Description
+/goto <point> 				            Go to a point
+/point new <point> <point name> 	Create a new point
+/point set <point> 			          Edit the coordinates of a point
+/point name <point> <point name> 	Give a name to a point
+/point rename <point> <new point> Rename a point
+/point delete <point> 			      Delete a point
+/point view <point> 			        View details of a point
+/point list 			              	List of your points
+/back 					                  Turn back
+  
+:Enhanced Crafting:
+https://dev.bukkit.org/projects/enhanced-crafting
+
+:Portable Chests:
+Place anything in chests, break them and items stay in them!!
+
+:NoEndermanGrief:
+When Endermen spawn they will no longer pickup blocks.
+
+:Dropped Heads:
+When any animal/person/npc/mob die there is a chance a head will be dropped...this is more of a funny mod than anything!
+
+---
 
 # Open Issues on the issues tab
